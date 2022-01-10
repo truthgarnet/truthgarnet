@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Mysql-E5BA1F?style=flat-square-&logo=Mysql&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square-&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square-&logo=Solidity&logoColor=white"/>
 <p>
   
   <h3 align="center">🍀 Follow Me</h3>
