@@ -18,9 +18,8 @@
   
   <h3 align="center">🍀 Follow Me</h3>
 <p align="center">
-  <a href="https://velog.io/@truthgarnet"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@truthgarnet"/></a>&nbsp
-  <a href="mailto:dmstj105@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmstj105@gmail.com"/></a>
   <a href="https://truthgarnet.tistory.com/"><img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=red&logoColor=white&color=red&link=https://truthgarnet.tistory.com/"/></a>&nbsp
+  <a href="mailto:dmstj105@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmstj105@gmail.com"/></a>
 </p>
 
 <h3 align="center">💻 My Github Stats </h3>
