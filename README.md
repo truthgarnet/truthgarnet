@@ -22,7 +22,4 @@
   <a href="mailto:dmstj105@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmstj105@gmail.com"/></a>
 </p>
 
-<h3 align="center">💻 My Github Stats </h3>
-<div align="center">
-
 </div>
